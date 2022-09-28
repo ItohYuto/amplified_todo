@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifiedtodo-dev-152140-authRole",
+      "UnauthRoleArn": "arn:aws:iam::862867720775:role/amplify-amplifiedtodo-dev-152140-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::862867720775:role/amplify-amplifiedtodo-dev-152140-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-amplifiedtodo-dev-152140-deployment",
+      "UnauthRoleName": "amplify-amplifiedtodo-dev-152140-unauthRole",
+      "StackName": "amplify-amplifiedtodo-dev-152140",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:862867720775:stack/amplify-amplifiedtodo-dev-152140/d1015af0-3ef5-11ed-9644-0a158f1d230d",
+      "AmplifyAppId": "d1k4kio6gva6el"
+    }
+  }
+}
